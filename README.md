@@ -2,7 +2,7 @@
 Simple student Database Application designed in Java
 This is the simple Java Application designed to understand the concepts of Object Oriented Programming.
 
-The main goal for creating this application was to understand the concept of Encapsulation, Static methods, Array Object.
+The main goal for creating this application was to understand the concept of Encapsulation, Static methods, Usage of Array Object to avoid creating multiple objects.
 The application performs the following tasks : 
 
 Allows the user to create new students which can be added to the database.
